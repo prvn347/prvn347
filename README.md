@@ -1,5 +1,5 @@
 ---
-<p  align="center"><img height="380" src ="https://github.com/prvn347/prvn347/blob/main/codegif.gif" width="800"></p>
+<p  align="center"><img height="380" src ="https://github.com/prvn347/prvn347/blob/main/codegif.gif" width="600"></p>
 
 ## नमस्ते (Namaste), I am Pravin<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 Native Android Dev | Learning MERN | Web 3 Enthusiast
