@@ -18,7 +18,7 @@ Native Android Dev | Learning MERN | Web 3 Enthusiast
 - 📫 Find me here : [sahupravin960@gmail.com](mailto:sahupravin960@gmail.com)
 - ⚡ Fun fact "☕ I am a chai enthusiast."
   
-
+## Read my blogs here:[medium.prvn](https://medium.com/@sahupravin960)
 
 <!--### I am learning blog writings here - [maddhruv.dev](https://maddhruv.dev)-->
 
