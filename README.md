@@ -6,7 +6,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prvn347.prvn347)
 
-##Connect with me:
+## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@prvn347-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raheprvn)](https://twitter.com/prvn347) 
 [![Gmail Badge](https://img.shields.io/badge/-sahupravin960@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahupravin960@gmail.com)](mailto:sahupravin960@gmail.com)
 
@@ -18,19 +18,19 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,cpp)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,react,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,cloudflare,firebase,postman,linux)](https://skillicons.dev)
   
 ## Read my blogs here:[medium](https://medium.com/@sahupravin960)
 
