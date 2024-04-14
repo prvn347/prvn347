@@ -2,7 +2,7 @@
 <p  align="center"><img height="380" src ="https://github.com/prvn347/prvn347/blob/main/codegif.gif" width="600"></p>
 
 ## Hi, I am Pravin<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
- I'm a full stack developer developer.I like building things for the web.I always excited to learn new technologies.
+ I'm a full stack developer.I like building things for the web.I always excited to learn new technologies.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prvn347.prvn347)
 
