@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on projects related to Node.js and React.js.
 - 🌱 I’m currently learning nextjs.
 - 📫 Find me here : [sahupravin960@gmail.com](mailto:sahupravin960@gmail.com)
-- ⚡ Fun fact "☕ I like cats.."
+- ⚡ Fun fact "I like cats.."
 
 <h2>Languages</h2>
 
