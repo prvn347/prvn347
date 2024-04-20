@@ -7,7 +7,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prvn347.prvn347)
 
 ## Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@prvn347-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raheprvn)](https://twitter.com/prvn347) 
+
 [![Gmail Badge](https://img.shields.io/badge/-sahupravin960@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahupravin960@gmail.com)](mailto:sahupravin960@gmail.com)
 
 - 🔭 I’m currently working on web dev projects.
@@ -34,5 +34,5 @@
   
 ## Read my blogs here:[medium](https://medium.com/@sahupravin960)
 
-<!--### I am learning blog writings here - [maddhruv.dev](https://maddhruv.dev)-->
+<!--### I am learning blog writings here - [maddhruv.dev](https://maddhruv.dev)- [![Twitter Badge](https://img.shields.io/badge/-@prvn347-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raheprvn)](https://twitter.com/prvn347) ->
 
