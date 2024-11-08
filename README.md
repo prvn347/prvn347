@@ -2,7 +2,7 @@
 
 
 ## Hi, I am Pravin<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-### A full-stack developer passionate about web development and driven by curiosity and creativity.
+### A passionate full stack developer from India.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prvn347.prvn347)
 
